@@ -17,6 +17,8 @@
     "radix-ui": "^1.0.1",
     "react": "^18",
     "react-dom": "^18",
+    "react-force-graph-2d": "^1.25.3",
+    "react-force-graph-3d": "^1.24.1",
     "tailwind-merge": "^2.1.0",
     "tailwindcss-animate": "^1.0.7"
   },
